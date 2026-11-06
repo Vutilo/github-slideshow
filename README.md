@@ -11,3 +11,20 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+
+<!-- PROJECT_STATUS_START -->
+## Projektin tilannekuva (6.11.2026)
+
+> Tämä tieto perustuu GitHubin README- ja commit-tietoihin. Testejä ei ajettu katselmuksessa.
+
+- **Nykyinen versio / vaihe:** GitHub Learning Lab -kurssiharjoitus (2020); ei tuotteen julkaisuversiota.
+- **Viimeisin testattu kokonaisuus / näyttö:** README dokumentoi kurssiharjoituksen, mutta ajantasaista testiraporttia ei ole vahvistettu.
+- **Tunnetut viat, riskit ja puutteet:** Kurssiharjoitus on vanha; avoin harjoitus-PR #3 ja päähaaran suojaus estävät suorat muutokset.
+
+### Kolme seuraavaa tehtävää
+
+1. Päätä, säilytetäänkö repo oppimishistoriana.
+2. Katselmoi vanha PR #3 ja sulje se tarvittaessa.
+3. Arkistoi repo, jos harjoitusta ei jatketa.
+
+<!-- PROJECT_STATUS_END -->
